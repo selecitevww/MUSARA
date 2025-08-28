@@ -27,3 +27,14 @@ GUID класса: {4d36e967-e325-11ce-bfc1-08002be10318}
 01 06 00 00 00 00 00 05 54 00 00 00 00 00 00 00 00 00 00 00 
 00 00 00 00 00 00 00 00 00 00 00 00 
 
+  ![1](https://github.com/selecitevww/MUSARA/blob/main/DEMO%20MMC.png)
+  ![2](https://github.com/selecitevww/MUSARA/blob/main/DEMOMMClastparentobject.png)
+  ![3](https://github.com/selecitevww/MUSARA/blob/main/Untitled.png)
+  ![4](https://github.com/selecitevww/MUSARA/blob/main/mmc.jpg)
+  ![5](https://github.com/selecitevww/MUSARA/blob/main/mmclists.jpg)
+  ![6](https://github.com/selecitevww/MUSARA/blob/main/mmclists.jpg)
+  ![7](https://github.com/selecitevww/MUSARA/blob/main/usbtor.png)
+  ![8](https://github.com/selecitevww/MUSARA/blob/main/usbtorid.png)
+  ![9](https://github.com/selecitevww/MUSARA/blob/main/usbtorids.bmp)
+  ![10](https://github.com/selecitevww/MUSARA/blob/main/usbtorids.tif)
+
